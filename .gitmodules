@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/marohrdanz/marohrdanz.r-universe.dev
 	branch = HEAD
+[submodule "NGCHM"]
+	path = NGCHM
+	url = https://github.com/marohrdanz/NGCHM-R
 [submodule "NGCHMDemoData"]
 	path = NGCHMDemoData
 	url = https://github.com/marohrdanz/NGCHMDemoData
