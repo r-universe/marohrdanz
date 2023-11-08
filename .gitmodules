@@ -1,13 +1,4 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/marohrdanz/marohrdanz.r-universe.dev
+	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "NGCHM"]
-	path = NGCHM
-	url = https://github.com/marohrdanz/NGCHM-R
-[submodule "NGCHMDemoData"]
-	path = NGCHMDemoData
-	url = https://github.com/marohrdanz/NGCHMDemoData
-[submodule "NGCHMSupportFiles"]
-	path = NGCHMSupportFiles
-	url = https://github.com/marohrdanz/NGCHMSupportFiles
